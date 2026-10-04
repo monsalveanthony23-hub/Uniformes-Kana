@@ -1,0 +1,13 @@
+{
+  "name": "uniformes-kana-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Webhook de WhatsApp Cloud API para Uniformes Kana",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
